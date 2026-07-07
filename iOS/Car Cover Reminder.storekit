@@ -1,0 +1,27 @@
+{
+  "identifier" : "Car Cover Reminder",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.covercheck.pro",
+      "localizations" : [
+        {
+          "description" : "Unlock Weather-based reminder scheduling and storage checklist",
+          "displayName" : "Car Cover Reminder Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.covercheck.pro",
+      "referenceName" : "Car Cover Reminder Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
